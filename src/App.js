@@ -7,12 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        welcome 
-
+        this is a demo
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://chic-cendol-566f58.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
