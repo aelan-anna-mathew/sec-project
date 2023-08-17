@@ -8,9 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
 <<<<<<< HEAD
-        this is a demo prject which is done by aelan
-=======
-        this is a demo by honey
+        this is a demo project done by aelan and honey
 >>>>>>> master
         </p>
         <a
